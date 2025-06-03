@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<CustomTab xmlns="http://soap.sforce.com/2006/04/metadata">
+    <customObject>true</customObject>
+    <label>Projetos</label>
+    <motif>Custom78: TV Widescreen</motif> <description
+  >Aba para visualizar e gerenciar Projetos.</description> </CustomTab>
