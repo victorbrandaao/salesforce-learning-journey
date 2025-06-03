@@ -37,25 +37,16 @@ Tenho focado em desenvolver um conjunto de habilidades que me permitem entregar 
 
 ---
 
-## 🚀 Meus Projetos em Destaque
+## 🚀 Meu Projeto Recente em Destaque
 
-Nada como um bom projeto para mostrar o que a gente sabe fazer! Estes são alguns dos trabalhos que mais me orgulho e que demonstram minha capacidade de aplicar meus conhecimentos:
+Nada como um bom projeto para mostrar o que a gente sabe fazer! Este é o projeto em que trabalhamos juntos, demonstrando a criação e configuração de elementos fundamentais no Salesforce:
 
-*(Lembre-se de manter os links dos seus projetos atualizados aqui!)*
+*(Lembre-se de adicionar mais projetos aqui conforme você os desenvolve!)*
 
-### 🌲 Desafios do Trailhead que me Impulsionaram
+### 🛠️ Projeto Salesforce DX: Objeto e Aba "Projeto"
 
--   [**👟 Gerenciamento de Leads para a Cloud Kicks**](trailhead-modules/cloud-kicks-leads/README.md)
-    * **O que fiz:** Configurei todo o processo de gestão de leads, desde as regras de atribuição até fluxos de qualificação, para garantir que nenhum lead da Cloud Kicks se perdesse no caminho!
--   [**💌 Automação de Boas-Vindas para Novos Clientes**](trailhead-modules/welcome-automation/README.md)
-    * **O que fiz:** Criei um Flow super bacana que dispara e-mails de boas-vindas personalizados e automáticos para cada novo cliente, melhorando a experiência de onboarding.
-
-### 💡 Meus Laboratórios e Projetos Pessoais
-
--   [**🗓️ Gestor de Eventos Simplificado**](personal-projects/event-management/README.md)
-    * **O que fiz:** Modelei e construí um pequeno sistema para gerenciar eventos, incluindo inscrições e comunicação com participantes, tudo automatizado com Flows.
--   [**📋 Meu App de Controle de Tarefas Internas**](personal-projects/internal-tasks/README.md)
-    * **O que fiz:** Desenvolvi uma solução para organizar e rastrear tarefas entre equipes, usando objetos customizados e fluxos para notificações e controle de prazos.
+-   [**Meu Primeiro Projeto SFDX: Configuração do Objeto e Aba `Projeto__c`**](./meu-projeto-sfdx/README.md) * **O que fizemos:** Configuração completa de um objeto customizado (`Projeto__c`) e sua respectiva aba customizada (`Projetos`) utilizando Salesforce DX. Superamos desafios de configuração de ambiente (Java `JAVA_HOME`), corrigimos erros de sintaxe XML e realizamos o deploy bem-sucedido para uma organização Salesforce.
+    * **Principais aprendizados:** Resolução de problemas de ambiente SFDX, validação de metadados XML, processo de deploy, e verificação de componentes na org.
 
 ---
 
@@ -82,6 +73,6 @@ Adoro trocar ideias e aprender com outras pessoas da comunidade Salesforce. Me e
 Se você curtiu meu trabalho, tem alguma sugestão, quer bater um papo sobre Salesforce ou tem uma oportunidade que acha que é a minha cara, me manda um e-mail!
 
 **victorbrandaotech@gmail.com**
-*(Este é um placeholder, coloque seu e-mail real aqui!)*
+*(Lembre-se de colocar seu e-mail real aqui!)*
 
 ---
