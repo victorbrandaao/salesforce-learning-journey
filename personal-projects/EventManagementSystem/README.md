@@ -6,7 +6,7 @@
 ![Lightning Web Components](https://img.shields.io/badge/LWC-1589EE?style=for-the-badge&logo=salesforce&logoColor=white)
 ![Apex](https://img.shields.io/badge/Apex-00D2FF?style=for-the-badge&logo=salesforce&logoColor=white)
 
-*Um sistema completo de gerenciamento de eventos construído na plataforma Salesforce*
+_Um sistema completo de gerenciamento de eventos construído na plataforma Salesforce_
 
 </div>
 
@@ -14,7 +14,7 @@
 
 O **Event Management System** é uma aplicação Salesforce desenvolvida para gerenciar eventos de forma eficiente e profissional. Este projeto faz parte da minha jornada de aprendizado em Salesforce e explora recursos avançados da plataforma.
 
-![Captura de Tela do Sistema](./Captura%20de%20Tela%202025-06-03%20a%CC%80s%2023.01.02.png)
+![Captura de Tela do Sistema](.Captura de Tela 2025-06-03 às 23.01.02.png/)
 
 ### ✨ Principais Funcionalidades
 
@@ -46,3 +46,4 @@ O **Event Management System** é uma aplicação Salesforce desenvolvida para ge
    ```bash
    git clone https://github.com/victorbrandaao/salesforce-learning-journey.git
    cd salesforce-learning-journey/personal-projects/EventManagementSystem
+   ```
