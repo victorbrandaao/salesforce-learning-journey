@@ -73,6 +73,5 @@ Adoro trocar ideias e aprender com outras pessoas da comunidade Salesforce. Me e
 Se você curtiu meu trabalho, tem alguma sugestão, quer bater um papo sobre Salesforce ou tem uma oportunidade que acha que é a minha cara, me manda um e-mail!
 
 **victorbrandaotech@gmail.com**
-*(Lembre-se de colocar seu e-mail real aqui!)*
 
 ---
