@@ -1,18 +1,48 @@
-# Salesforce DX Project: Next Steps
+# 🎉 Event Management System
 
-Now that you’ve created a Salesforce DX project, what’s next? Here are some documentation resources to get you started.
+<div align="center">
 
-## How Do You Plan to Deploy Your Changes?
+![Salesforce](https://img.shields.io/badge/Salesforce-00D2FF?style=for-the-badge&logo=salesforce&logoColor=white)
+![Lightning Web Components](https://img.shields.io/badge/LWC-1589EE?style=for-the-badge&logo=salesforce&logoColor=white)
+![Apex](https://img.shields.io/badge/Apex-00D2FF?style=for-the-badge&logo=salesforce&logoColor=white)
 
-Do you want to deploy a set of changes, or create a self-contained application? Choose a [development model](https://developer.salesforce.com/tools/vscode/en/user-guide/development-models).
+*Um sistema completo de gerenciamento de eventos construído na plataforma Salesforce*
 
-## Configure Your Salesforce DX Project
+</div>
 
-The `sfdx-project.json` file contains useful configuration information for your project. See [Salesforce DX Project Configuration](https://developer.salesforce.com/docs/atlas.en-us.sfdx_dev.meta/sfdx_dev/sfdx_dev_ws_config.htm) in the _Salesforce DX Developer Guide_ for details about this file.
+## 📋 Sobre o Projeto
 
-## Read All About It
+O **Event Management System** é uma aplicação Salesforce desenvolvida para gerenciar eventos de forma eficiente e profissional. Este projeto faz parte da minha jornada de aprendizado em Salesforce e explora recursos avançados da plataforma.
 
-- [Salesforce Extensions Documentation](https://developer.salesforce.com/tools/vscode/)
-- [Salesforce CLI Setup Guide](https://developer.salesforce.com/docs/atlas.en-us.sfdx_setup.meta/sfdx_setup/sfdx_setup_intro.htm)
-- [Salesforce DX Developer Guide](https://developer.salesforce.com/docs/atlas.en-us.sfdx_dev.meta/sfdx_dev/sfdx_dev_intro.htm)
-- [Salesforce CLI Command Reference](https://developer.salesforce.com/docs/atlas.en-us.sfdx_cli_reference.meta/sfdx_cli_reference/cli_reference.htm)
+![Captura de Tela do Sistema](./Captura%20de%20Tela%202025-06-03%20a%CC%80s%2023.01.02.png)
+
+### ✨ Principais Funcionalidades
+
+- 📅 **Criação e Gestão de Eventos** - Interface intuitiva para criar e administrar eventos
+- 👥 **Gerenciamento de Participantes** - Controle completo de inscrições e participantes
+- 📊 **Dashboard e Relatórios** - Visualizações e métricas dos eventos
+- 🔔 **Notificações Automáticas** - Sistema de lembretes e comunicações
+- 📱 **Interface Responsiva** - Compatível com desktop e mobile
+
+## 🛠️ Tecnologias Utilizadas
+
+- **Salesforce DX** - Ferramenta de desenvolvimento moderna
+- **Lightning Web Components (LWC)** - Framework JavaScript reativo
+- **Apex** - Linguagem de programação do Salesforce
+- **SOQL/SOSL** - Linguagens de consulta do Salesforce
+- **Lightning Design System** - Sistema de design do Salesforce
+
+## 🚀 Como Executar o Projeto
+
+### Pré-requisitos
+
+- Salesforce CLI instalado
+- VS Code com extensões do Salesforce
+- Org de desenvolvimento Salesforce
+
+### Passo a Passo
+
+1. **Clone o repositório**
+   ```bash
+   git clone https://github.com/victorbrandaao/salesforce-learning-journey.git
+   cd salesforce-learning-journey/personal-projects/EventManagementSystem
