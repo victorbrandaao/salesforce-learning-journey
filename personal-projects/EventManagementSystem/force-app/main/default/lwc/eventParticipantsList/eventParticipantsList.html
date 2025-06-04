@@ -1,6 +1,6 @@
 <template>
   <lightning-card title="Participantes do Evento" icon-name="standard:people">
-    <div class="slds-p-around_medium">
+    <div class="slds-var-p-around_medium">
       <p>Capacidade: {currentParticipants} / {maxCapacity}</p>
       <lightning-progress-bar
         value={percentageFull}
@@ -12,10 +12,10 @@
       </p>
 
       <template if:true={participants.data}>
-        <h2 class="slds-text-heading_small slds-m-vertical_medium">
+        <h2 class="slds-text-heading_small slds-var-m-vertical_medium">
           Lista de Participantes ({participants.data.length})
         </h2>
-        <ul class="slds-m-bottom_medium">
+        <ul class="slds-var-m-bottom_medium">
           <template for:each={participants.data} for:item="participant">
             <li key={participant.Id}>
               <lightning-formatted-text
@@ -42,7 +42,7 @@
         label="Adicionar Novo Participante"
         icon-name="utility:add"
         onclick={handleAddParticipant}
-        class="slds-m-top_medium"
+        class="slds-var-m-top_medium"
       ></lightning-button>
     </div>
   </lightning-card>
